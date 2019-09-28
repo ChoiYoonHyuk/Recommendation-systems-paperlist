@@ -6,6 +6,11 @@
 * Deep Learning based Recommender System: A Survey and New Perspectives [2017]
 * A Survey on Session-based Recommender System [2019] [[__pdf__](https://arxiv.org/pdf/1902.04864.pdf)]
 
+## Recommendation Systems with Knowledge Graph
+* Multi-Task Feature Learning for Knowledge Graph Enhanced Recommendation [WWW 2019]
+* Dual Graph Attention Networks for Deep Latent Representation of Multifaceted Social Effects in Recommender System [WWW 2019]
+
+
 ## Recommendation Systems with Social Information 
 * SoRec: Social Recommendation Using Probabilistic Matrix Factorization [CIKM 2008]
 * A Matrix Factorization Technique with Trust Propagation for Recommendation in Social Networks [RecSys 2010]
